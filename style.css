@@ -1,0 +1,38 @@
+/*
+Theme Name: Sydney Child
+Theme URI: http://athemes.com/theme/sydney
+Author: aThemes
+Author URI: http://athemes.com
+Template: sydney
+Version: 0.1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sydney
+*/
+
+.site-title a {
+  text-shadow: 0 4px 3px rgba(0,0,0,0.4),
+               0 8px 13px rgba(0,0,0,0.1),
+               0 18px 23px rgba(0,0,0,0.1);
+}
+
+#mainnav ul li a {
+  text-shadow: 0 4px 3px rgba(0,0,0,0.4),
+               0 8px 13px rgba(0,0,0,0.1),
+               0 18px 23px rgba(0,0,0,0.1);
+}
+
+.site-header {
+  background-color: rgba(0,0,0,0.5);
+  height: 80px;
+  border-bottom: 0px;
+  transition: background-color .5s ease 0s;
+}
+
+.text-slider .maintitle {
+  text-shadow: 0 5px 10px rgba(0,0,0,0.4);
+}
+
+.text-slider .subtitle {
+  text-shadow: 0 5px 10px rgba(0,0,0,0.4);
+}
